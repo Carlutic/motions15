@@ -9,212 +9,247 @@
     "name": "Aespa - Black Mamba",
     "group": "Kpop",
     "modelMotionFile": "kpop/aespa_aespa_black_mamba/aespa_black_mamba/main.vmd",
-    "camMotionFile": "kpop/aespa_aespa_black_mamba/aespa_black_mamba/camera.vmd"
+    "camMotionFile": "kpop/aespa_aespa_black_mamba/aespa_black_mamba/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/17155bbc1d9b83d983c8a1435434c6771bf06f84.mp3"
   },
   {
     "name": "AOA - Heart Attack_EDIT",
     "group": "Kpop",
     "modelMotionFile": "kpop/aoa_aoa_heart_attack_edit/aoa_heart_attack_edit/main.vmd",
-    "camMotionFile": "kpop/aoa_aoa_heart_attack_edit/aoa_heart_attack_edit/camera.vmd"
+    "camMotionFile": "kpop/aoa_aoa_heart_attack_edit/aoa_heart_attack_edit/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/3f2555be188d3cbbe074877e3cbe0ac1bd673d9a.mp3"
   },
   {
     "name": "AOA - Short Hair",
     "group": "Kpop",
     "modelMotionFile": "kpop/aoa_aoa_short_hair/aoa_short_hair/main.vmd",
-    "camMotionFile": "kpop/aoa_aoa_short_hair/aoa_short_hair/camera.vmd"
+    "camMotionFile": "kpop/aoa_aoa_short_hair/aoa_short_hair/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/2f203005b70b38e4ed26eda5665e79a5c0c31ac6.mp3"
   },
   {
     "name": "AOA - 사뿐사뿐(Like a Cat)",
     "group": "Kpop",
     "modelMotionFile": "kpop/aoa_aoa_like_a_cat/aoa_like_a_cat_/main.vmd",
-    "camMotionFile": "kpop/aoa_aoa_like_a_cat/aoa_like_a_cat_/camera.vmd"
+    "camMotionFile": "kpop/aoa_aoa_like_a_cat/aoa_like_a_cat_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/78aeba2bc310a1fc4fed8cfa2ea9f3fb03181577.mp3"
   },
   {
     "name": "Apink - LUV",
     "group": "Kpop",
     "modelMotionFile": "kpop/apink_apink_luv/apink_luv/main.vmd",
     "camMotionFile": "kpop/apink_apink_luv/apink_luv/camera.vmd",
-    "expressionMotionFile": "kpop/apink_apink_luv/apink_luv/expression.vmd"
+    "expressionMotionFile": "kpop/apink_apink_luv/apink_luv/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/4732a14c6d642647d5ca5c23381d15e1f68f4d7e.mp3"
   },
   {
     "name": "Berry Good - 안믿을래",
     "group": "Kpop",
     "modelMotionFile": "kpop/berry_good_berry_good/berry_good_/main.vmd",
-    "camMotionFile": "kpop/berry_good_berry_good/berry_good_/camera.vmd"
+    "camMotionFile": "kpop/berry_good_berry_good/berry_good_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/ed3f69df545e94bbd0ecbc1ab83a0fc9a83a726f.mp3"
   },
   {
     "name": "BLACKPINK - DDU-DU DDU-DU",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_ddu_du_ddu_du/blackpink_ddu_du_ddu_d/main.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_ddu_du_ddu_du/blackpink_ddu_du_ddu_d/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_ddu_du_ddu_du/blackpink_ddu_du_ddu_d/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/c99d0870a5e308983c889ef03e6a9e6e229a8891.mp3"
   },
   {
     "name": "1Motion",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_forever_young_1motio/1motion/main.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_forever_young_1motio/1motion/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_forever_young_1motio/1motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/dec415618bac229736933360363024c446d85d4a.mp3"
   },
   {
     "name": "4Motion (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_forever_young_4motio/4motion_1_2_/main.vmd",
     "partnerMotionFile": "kpop/blackpink_blackpink_forever_young_4motio/4motion_1_2_/partner.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_forever_young_4motio/4motion_1_2_/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_forever_young_4motio/4motion_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/8eebe546ec9b9afe50c9e78ac39de95a25607adc.mp3"
   },
   {
     "name": "4Motion (3+4)",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_forever_young_4motio/4motion_3_4_/main.vmd",
     "partnerMotionFile": "kpop/blackpink_blackpink_forever_young_4motio/4motion_3_4_/partner.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_forever_young_4motio/4motion_1_2_/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_forever_young_4motio/4motion_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/8eebe546ec9b9afe50c9e78ac39de95a25607adc.mp3"
   },
   {
     "name": "긾_긘깈깛",
     "group": "Kpop",
-    "modelMotionFile": "kpop/blackpink_blackpink_forever_young/_/main.vmd"
+    "modelMotionFile": "kpop/blackpink_blackpink_forever_young/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/8eebe546ec9b9afe50c9e78ac39de95a25607adc.mp3"
   },
   {
     "name": "4인 (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_forever_young_4/4_1_2_/main.vmd",
-    "partnerMotionFile": "kpop/blackpink_blackpink_forever_young_4/4_1_2_/partner.vmd"
+    "partnerMotionFile": "kpop/blackpink_blackpink_forever_young_4/4_1_2_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/8eebe546ec9b9afe50c9e78ac39de95a25607adc.mp3"
   },
   {
     "name": "4인 (3+4)",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_forever_young_4/4_3_4_/main.vmd",
-    "partnerMotionFile": "kpop/blackpink_blackpink_forever_young_4/4_3_4_/partner.vmd"
+    "partnerMotionFile": "kpop/blackpink_blackpink_forever_young_4/4_3_4_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/8eebe546ec9b9afe50c9e78ac39de95a25607adc.mp3"
   },
   {
     "name": "BLACKPINK - Kill This Love_합본EDIT",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_kill_this_love_edit/blackpink_kill_this_lo/main.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_kill_this_love_edit/blackpink_kill_this_lo/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_kill_this_love_edit/blackpink_kill_this_lo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/97491b9280cd18627bdd0acf08a1e13903688558.mp3"
   },
   {
     "name": "BLACKPINK - Lovesick Girls (FULL)",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_lovesick_girls_full/blackpink_lovesick_gir/main.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_lovesick_girls_full/blackpink_lovesick_gir/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_lovesick_girls_full/blackpink_lovesick_gir/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/40459c231c787955e91107cb96f6db82a8df7a28.mp3"
   },
   {
     "name": "ORIGINAL (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_pink_venom_edit_orig/original_1_2_/main.vmd",
     "partnerMotionFile": "kpop/blackpink_blackpink_pink_venom_edit_orig/original_1_2_/partner.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_pink_venom_edit_orig/original_1_2_/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_pink_venom_edit_orig/original_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/0631e4d9a287bf93318f7d483da2fe74abf6e6a9.mp3"
   },
   {
     "name": "ORIGINAL (3)",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_pink_venom_edit_orig/original_3_/main.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_pink_venom_edit_orig/original_1_2_/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_pink_venom_edit_orig/original_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/0631e4d9a287bf93318f7d483da2fe74abf6e6a9.mp3"
   },
   {
     "name": "BLACKPINK - So Hot",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_so_hot/blackpink_so_hot/main.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_so_hot/blackpink_so_hot/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_so_hot/blackpink_so_hot/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/9b95adb3e9fe8e7000b2248fd7d92c6b1382c603.mp3"
   },
   {
     "name": "BLACKPINK - ‘Shut Down’ 합본EDIT",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink_shut_down_edit/blackpink_shut_down_ed/main.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink_shut_down_edit/blackpink_shut_down_ed/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink_shut_down_edit/blackpink_shut_down_ed/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/52e12db1de416b0bdc35388536540a081738b71e.mp3"
   },
   {
     "name": "BLACKPINK - 불장난",
     "group": "Kpop",
     "modelMotionFile": "kpop/blackpink_blackpink/blackpink_/main.vmd",
-    "camMotionFile": "kpop/blackpink_blackpink/blackpink_/camera.vmd"
+    "camMotionFile": "kpop/blackpink_blackpink/blackpink_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/f8e4658addc3af363e99bd32b29efddc0455c967.mp3"
   },
   {
     "name": "BTS - Blood Sweat and Tears [short]",
     "group": "Kpop",
     "modelMotionFile": "kpop/bts_bts_blood_sweat_and_tears_short/bts_blood_sweat_and_te/main.vmd",
-    "camMotionFile": "kpop/bts_bts_blood_sweat_and_tears_short/bts_blood_sweat_and_te/camera.vmd"
+    "camMotionFile": "kpop/bts_bts_blood_sweat_and_tears_short/bts_blood_sweat_and_te/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/f1ee7d336b19413991d116c7e7fe59e9ba24f231.mp3"
   },
   {
     "name": "CHUNG HA - Bicycle",
     "group": "Kpop",
     "modelMotionFile": "kpop/chung_ha_chung_ha_bicycle/chung_ha_bicycle/main.vmd",
-    "camMotionFile": "kpop/chung_ha_chung_ha_bicycle/chung_ha_bicycle/camera.vmd"
+    "camMotionFile": "kpop/chung_ha_chung_ha_bicycle/chung_ha_bicycle/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/ba7d7fca83f6fbc49bb826d786b4f745df210be9.mp3"
   },
   {
     "name": "unicycle Motion",
     "group": "Kpop",
     "modelMotionFile": "kpop/chung_ha_chung_ha_bicycle_unicycle_motio/unicycle_motion/main.vmd",
-    "camMotionFile": "kpop/chung_ha_chung_ha_bicycle/chung_ha_bicycle/camera.vmd"
+    "camMotionFile": "kpop/chung_ha_chung_ha_bicycle/chung_ha_bicycle/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/ba7d7fca83f6fbc49bb826d786b4f745df210be9.mp3"
   },
   {
     "name": "CHUNG HA - Killing Me [Short]",
     "group": "Kpop",
-    "modelMotionFile": "kpop/chung_ha_chung_ha_killing_me_short_chung/chung_ha_killing_me_sh/main.vmd"
+    "modelMotionFile": "kpop/chung_ha_chung_ha_killing_me_short_chung/chung_ha_killing_me_sh/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/b328cebad7eac180c87b56eff95ce853f73518e9.mp3"
   },
   {
     "name": "CL 씨엘  HELLO BITCHES",
     "group": "Kpop",
     "modelMotionFile": "kpop/cl_cl_hello_bitches/cl_hello_bitches/main.vmd",
-    "camMotionFile": "kpop/cl_cl_hello_bitches/cl_hello_bitches/camera.vmd"
+    "camMotionFile": "kpop/cl_cl_hello_bitches/cl_hello_bitches/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/a3293c09f046646d23b2422c479afc0708364ddc.mp3"
   },
   {
     "name": "DREAMCATCHER _ SAHARA MOTION + STAGE",
     "group": "Kpop",
     "modelMotionFile": "kpop/dreamcatcher_dreamcatcher_sahara_motion_/dreamcatcher_sahara_mo/main.vmd",
-    "camMotionFile": "kpop/dreamcatcher_dreamcatcher_sahara_motion_/dreamcatcher_sahara_mo/camera.vmd"
+    "camMotionFile": "kpop/dreamcatcher_dreamcatcher_sahara_motion_/dreamcatcher_sahara_mo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/aa65dd3c85a9da3396d1871a309a759bb4e95622.mp3"
   },
   {
     "name": "Motion (3)",
     "group": "Kpop",
     "modelMotionFile": "kpop/everglow_everglow_adios_2_motion/motion/main.vmd",
-    "camMotionFile": "kpop/everglow_everglow_adios_2_motion/motion/camera.vmd"
+    "camMotionFile": "kpop/everglow_everglow_adios_2_motion/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/6ff8b80358203b0c184bb182ff275ce2a0e0621a.mp3"
   },
   {
     "name": "EVERGLOW - Bon Bon Chocolat",
     "group": "Kpop",
     "modelMotionFile": "kpop/everglow_everglow_bon_bon_chocolat/everglow_bon_bon_choco/main.vmd",
-    "camMotionFile": "kpop/everglow_everglow_bon_bon_chocolat/everglow_bon_bon_choco/camera.vmd"
+    "camMotionFile": "kpop/everglow_everglow_bon_bon_chocolat/everglow_bon_bon_choco/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/9a2f99566605c378fb76aeb27b319a9f74634045.mp3"
   },
   {
     "name": "EVERGLOW - dun dun",
     "group": "Kpop",
-    "modelMotionFile": "kpop/everglow_everglow_dun_dun/everglow_dun_dun/main.vmd"
+    "modelMotionFile": "kpop/everglow_everglow_dun_dun/everglow_dun_dun/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/7afe9f4a1aadd6ab27ff13590b5554b8f14ecad0.mp3"
   },
   {
     "name": "EVERGLOW - DUN DUN 2",
     "group": "Kpop",
     "modelMotionFile": "kpop/everglow_everglow_dun_dun_2/everglow_dun_dun_2/main.vmd",
-    "camMotionFile": "kpop/everglow_everglow_dun_dun_2/everglow_dun_dun_2/camera.vmd"
+    "camMotionFile": "kpop/everglow_everglow_dun_dun_2/everglow_dun_dun_2/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/10ce68a64a8905483327fb678dd77dc5144e5006.mp3"
   },
   {
     "name": "EVERGLOW - Pirate (FULL)",
     "group": "Kpop",
     "modelMotionFile": "kpop/everglow_everglow_pirate_full/everglow_pirate_full_/main.vmd",
-    "camMotionFile": "kpop/everglow_everglow_pirate_full/everglow_pirate_full_/camera.vmd"
+    "camMotionFile": "kpop/everglow_everglow_pirate_full/everglow_pirate_full_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/691b69973a1dc0e81248c3dbedd48545fff6fc64.mp3"
   },
   {
     "name": "EVERGLOW La Di Da",
     "group": "Kpop",
-    "modelMotionFile": "kpop/everglow_everglow_la_di_da/everglow_la_di_da/main.vmd"
+    "modelMotionFile": "kpop/everglow_everglow_la_di_da/everglow_la_di_da/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/3dfb68f9f5b94c4f18c4a0ec9615243f534ff9e9.mp3"
   },
   {
     "name": "EXID - DDD",
     "group": "Kpop",
     "modelMotionFile": "kpop/exid_exid_ddd/exid_ddd/main.vmd",
-    "camMotionFile": "kpop/exid_exid_ddd/exid_ddd/camera.vmd"
+    "camMotionFile": "kpop/exid_exid_ddd/exid_ddd/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/53b9fbf0aa604cda72ae94d5749c112a79b6c3f0.mp3"
   },
   {
     "name": "EXID - i_love_you",
     "group": "Kpop",
     "modelMotionFile": "kpop/exid_exid_i_love_you/exid_i_love_you/main.vmd",
-    "camMotionFile": "kpop/exid_exid_i_love_you/exid_i_love_you/camera.vmd"
+    "camMotionFile": "kpop/exid_exid_i_love_you/exid_i_love_you/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/34d55c080244a724bc4a6754a4c06e464caf89ae.mp3"
   },
   {
     "name": "EXID - lady",
     "group": "Kpop",
     "modelMotionFile": "kpop/exid_exid_lady/exid_lady/main.vmd",
     "camMotionFile": "kpop/exid_exid_lady/exid_lady/camera.vmd",
-    "expressionMotionFile": "kpop/exid_exid_lady/exid_lady/expression.vmd"
+    "expressionMotionFile": "kpop/exid_exid_lady/exid_lady/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/13f5b9673da8da3462f9f8cdea36f49355bf50ff.mp3"
   },
   {
     "name": "EXO - Obsession",
@@ -232,30 +267,35 @@
     "group": "Kpop",
     "modelMotionFile": "kpop/fifty_fifty_fifty_fifty_cupid_dance_chal/fifty_fifty_cupid_danc/main.vmd",
     "partnerMotionFile": "kpop/fifty_fifty_fifty_fifty_cupid_dance_chal/fifty_fifty_cupid_danc/partner.vmd",
-    "camMotionFile": "kpop/fifty_fifty_fifty_fifty_cupid_dance_chal/fifty_fifty_cupid_danc/camera.vmd"
+    "camMotionFile": "kpop/fifty_fifty_fifty_fifty_cupid_dance_chal/fifty_fifty_cupid_danc/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/fb506ecf9e207d005229758b45e5d7e8ab6ae5a3.mp3"
   },
   {
     "name": "(G)I-DLE - (HWAA)",
     "group": "Kpop",
     "modelMotionFile": "kpop/g_idle_g_i_dle_hwaa/_g_i_dle_hwaa_/main.vmd",
-    "camMotionFile": "kpop/g_idle_g_i_dle_hwaa/_g_i_dle_hwaa_/camera.vmd"
+    "camMotionFile": "kpop/g_idle_g_i_dle_hwaa/_g_i_dle_hwaa_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/3ab9521a6c6443c9982e125d7eb876b0c3cabde0.mp3"
   },
   {
     "name": "FULL KEY (SMOOTHER)",
     "group": "Kpop",
-    "modelMotionFile": "kpop/g_idle_g_i_dle_hann_alone_full_key_smoot/full_key_smoother_/main.vmd"
+    "modelMotionFile": "kpop/g_idle_g_i_dle_hann_alone_full_key_smoot/full_key_smoother_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/53b94f492ca599afb97800bcedd3e5241cb0249c.mp3"
   },
   {
     "name": "Halloween Succubus Motion",
     "group": "Kpop",
     "modelMotionFile": "kpop/g_idle_g_i_dle_tomboy_full_halloween_suc/halloween_succubus_mot/main.vmd",
-    "camMotionFile": "kpop/g_idle_g_i_dle_tomboy_full_halloween_suc/halloween_succubus_mot/camera.vmd"
+    "camMotionFile": "kpop/g_idle_g_i_dle_tomboy_full_halloween_suc/halloween_succubus_mot/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/4be93570fb74960aad3d88c97c9bb398ea294f60.mp3"
   },
   {
     "name": "とらビキニ Motion",
     "group": "Kpop",
     "modelMotionFile": "kpop/g_idle_g_i_dle_tomboy_full_motion/_motion/main.vmd",
-    "camMotionFile": "kpop/g_idle_g_i_dle_tomboy_full_motion/_motion/camera.vmd"
+    "camMotionFile": "kpop/g_idle_g_i_dle_tomboy_full_motion/_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/4be93570fb74960aad3d88c97c9bb398ea294f60.mp3"
   },
   {
     "name": "GFRIEND - fever",
@@ -267,150 +307,174 @@
     "name": "GFRIEND - Rough",
     "group": "Kpop",
     "modelMotionFile": "kpop/gfriend_gfriend_rough/gfriend_rough/main.vmd",
-    "camMotionFile": "kpop/gfriend_gfriend_rough/gfriend_rough/camera.vmd"
+    "camMotionFile": "kpop/gfriend_gfriend_rough/gfriend_rough/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/f6a91150b03a7b7a7eca61ab1dbf4ec596fbba36.mp3"
   },
   {
     "name": "Girl_s Day - ring my bell",
     "group": "Kpop",
     "modelMotionFile": "kpop/girl_s_day_girl_s_day_ring_my_bell/girl_s_day_ring_my_bel/main.vmd",
-    "camMotionFile": "kpop/girl_s_day_girl_s_day_ring_my_bell/girl_s_day_ring_my_bel/camera.vmd"
+    "camMotionFile": "kpop/girl_s_day_girl_s_day_ring_my_bell/girl_s_day_ring_my_bel/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/03006f7fcef382f3d6d62ac346efdfcb67f921d2.mp3"
   },
   {
     "name": "Girl_s Day - SOMETHING",
     "group": "Kpop",
     "modelMotionFile": "kpop/girl_s_day_girl_s_day_something/girl_s_day_something/main.vmd",
-    "camMotionFile": "kpop/girl_s_day_girl_s_day_something/girl_s_day_something/camera.vmd"
+    "camMotionFile": "kpop/girl_s_day_girl_s_day_something/girl_s_day_something/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/fa9380b187a9e593f259182b0514a51f2b828bcb.mp3"
   },
   {
     "name": "Girl_s Day - twinkle_twinkle",
     "group": "Kpop",
     "modelMotionFile": "kpop/girl_s_day_girl_s_day_twinkle_twinkle/girl_s_day_twinkle_twi/main.vmd",
-    "camMotionFile": "kpop/girl_s_day_girl_s_day_twinkle_twinkle/girl_s_day_twinkle_twi/camera.vmd"
+    "camMotionFile": "kpop/girl_s_day_girl_s_day_twinkle_twinkle/girl_s_day_twinkle_twi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/aa95ef6a1c8f33bfc227c3c6fb3a40ae7dd231d4.mp3"
   },
   {
     "name": "HELLOVENUS - Mysterious",
     "group": "Kpop",
     "modelMotionFile": "kpop/hellovenus_hellovenus_mysterious/hellovenus_mysterious/main.vmd",
-    "camMotionFile": "kpop/hellovenus_hellovenus_mysterious/hellovenus_mysterious/camera.vmd"
+    "camMotionFile": "kpop/hellovenus_hellovenus_mysterious/hellovenus_mysterious/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/a740df734ba303aa9f56ef40cad6312612b41415.mp3"
   },
   {
     "name": "HELLOVENUS - WiggleWiggle (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/hellovenus_hellovenus_wigglewiggle/hellovenus_wigglewiggl/main.vmd",
     "partnerMotionFile": "kpop/hellovenus_hellovenus_wigglewiggle/hellovenus_wigglewiggl/partner.vmd",
-    "camMotionFile": "kpop/hellovenus_hellovenus_wigglewiggle/hellovenus_wigglewiggl/camera.vmd"
+    "camMotionFile": "kpop/hellovenus_hellovenus_wigglewiggle/hellovenus_wigglewiggl/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/5d6d8042fc9f4d57991e10d0747276498d5f2f6e.mp3"
   },
   {
     "name": "Hwa Sa - twit",
     "group": "Kpop",
     "modelMotionFile": "kpop/hwa_sa_hwa_sa_twit/hwa_sa_twit/main.vmd",
-    "camMotionFile": "kpop/hwa_sa_hwa_sa_twit/hwa_sa_twit/camera.vmd"
+    "camMotionFile": "kpop/hwa_sa_hwa_sa_twit/hwa_sa_twit/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/94ffb324a92fcf4e445a24c77fec10cb1ea760dc.mp3"
   },
   {
     "name": "HYOLYN - BAE",
     "group": "Kpop",
     "modelMotionFile": "kpop/hyolyn_hyolyn_bae/hyolyn_bae/main.vmd",
-    "camMotionFile": "kpop/hyolyn_hyolyn_bae/hyolyn_bae/camera.vmd"
+    "camMotionFile": "kpop/hyolyn_hyolyn_bae/hyolyn_bae/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/16e9a115db3f247ef6ef1a0f53eec95aa6b0fed4.mp3"
   },
   {
     "name": "HyunA - FLOWER SHOWER",
     "group": "Kpop",
     "modelMotionFile": "kpop/hyuna_hyuna_flower_shower/hyuna_flower_shower/main.vmd",
-    "camMotionFile": "kpop/hyuna_hyuna_flower_shower/hyuna_flower_shower/camera.vmd"
+    "camMotionFile": "kpop/hyuna_hyuna_flower_shower/hyuna_flower_shower/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/2a2e3bed4a7f56b1aeadb805414e79b186366363.mp3"
   },
   {
     "name": "HyunA - Im Not Cool HyunA",
     "group": "Kpop",
     "modelMotionFile": "kpop/hyuna_hyuna_im_not_cool_hyuna/hyuna_im_not_cool_hyun/main.vmd",
-    "camMotionFile": "kpop/hyuna_hyuna_im_not_cool_hyuna/hyuna_im_not_cool_hyun/camera.vmd"
+    "camMotionFile": "kpop/hyuna_hyuna_im_not_cool_hyuna/hyuna_im_not_cool_hyun/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/947d3ae53f089884e6cc410bdb2f938696635085.mp3"
   },
   {
     "name": "I.O.I - pick_me",
     "group": "Kpop",
     "modelMotionFile": "kpop/i_o_i_i_o_i_pick_me/i_o_i_pick_me/main.vmd",
-    "camMotionFile": "kpop/i_o_i_i_o_i_pick_me/i_o_i_pick_me/camera.vmd"
+    "camMotionFile": "kpop/i_o_i_i_o_i_pick_me/i_o_i_pick_me/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/5ea580a2919396a3c839d08c3c3f7c9433568104.mp3"
   },
   {
     "name": "I.O.I - Produce 101",
     "group": "Kpop",
     "modelMotionFile": "kpop/i_o_i_i_o_i_produce_101/i_o_i_produce_101/main.vmd",
-    "camMotionFile": "kpop/i_o_i_i_o_i_produce_101/i_o_i_produce_101/camera.vmd"
+    "camMotionFile": "kpop/i_o_i_i_o_i_produce_101/i_o_i_produce_101/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/b79e562f5e20ed573b6289a9b03f6b9ac5062d67.mp3"
   },
   {
     "name": "ITZY - Blah Blah Blah (FULL)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_blah_blah_blah_full/itzy_blah_blah_blah_fu/main.vmd",
-    "camMotionFile": "kpop/itzy_itzy_blah_blah_blah_full/itzy_blah_blah_blah_fu/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_blah_blah_blah_full/itzy_blah_blah_blah_fu/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/6d04688704f2f064283fb92e968a582362e939a0.mp3"
   },
   {
     "name": "Three people ver (left + right)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_dalla_dalla_three_people_ver/three_people_ver_left_/main.vmd",
     "partnerMotionFile": "kpop/itzy_itzy_dalla_dalla_three_people_ver/three_people_ver_left_/partner.vmd",
-    "camMotionFile": "kpop/itzy_itzy_dalla_dalla_three_people_ver/three_people_ver_left_/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_dalla_dalla_three_people_ver/three_people_ver_left_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/542bf79a0b8a99acdc083cde63da0a454dcaf646.mp3"
   },
   {
     "name": "Motion (4)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_icy_motion/motion/main.vmd",
-    "camMotionFile": "kpop/itzy_itzy_icy_motion/motion/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_icy_motion/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/db6893700249e4e14c33a860cd192295e75b01a5.mp3"
   },
   {
     "name": "ITZY - Not Shy (Full_5p ver.)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_not_shy_full_5p_ver_itzy_not_s/itzy_not_shy_full_5p_v/main.vmd",
-    "camMotionFile": "kpop/itzy_itzy_not_shy_full_5p_ver_itzy_not_s/itzy_not_shy_full_5p_v/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_not_shy_full_5p_ver_itzy_not_s/itzy_not_shy_full_5p_v/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/e713cfc1b94ffe8df0a164b8130e5d84ec0ac83a.mp3"
   },
   {
     "name": "Motions_smooth_ver",
     "group": "Kpop",
-    "modelMotionFile": "kpop/itzy_itzy_not_shy_full_5p_ver_itzy_not_s/motions_smooth_ver/main.vmd"
+    "modelMotionFile": "kpop/itzy_itzy_not_shy_full_5p_ver_itzy_not_s/motions_smooth_ver/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/e713cfc1b94ffe8df0a164b8130e5d84ec0ac83a.mp3"
   },
   {
     "name": "5p (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_1_2_/main.vmd",
     "partnerMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_1_2_/partner.vmd",
-    "camMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_1_2_/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/713cafb1b6f9a00ea7acf183d64d25925c3fee62.mp3"
   },
   {
     "name": "5p (3+4)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_3_4_/main.vmd",
     "partnerMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_3_4_/partner.vmd",
-    "camMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_1_2_/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/713cafb1b6f9a00ea7acf183d64d25925c3fee62.mp3"
   },
   {
     "name": "5p (5)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_5_/main.vmd",
-    "camMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_1_2_/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_sneakers_full_5p_5p/5p_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/713cafb1b6f9a00ea7acf183d64d25925c3fee62.mp3"
   },
   {
     "name": "ITZY - WANNABE (Full)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_wannabe_full/itzy_wannabe_full_/main.vmd",
-    "camMotionFile": "kpop/itzy_itzy_wannabe_full/itzy_wannabe_full_/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_wannabe_full/itzy_wannabe_full_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/add7e99141113e106c4fc9490afa2f48bdff7c50.mp3"
   },
   {
     "name": "5P ver (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_1_2_/main.vmd",
     "partnerMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_1_2_/partner.vmd",
-    "camMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_1_2_/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/add7e99141113e106c4fc9490afa2f48bdff7c50.mp3"
   },
   {
     "name": "5P ver (3+4)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_3_4_/main.vmd",
     "partnerMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_3_4_/partner.vmd",
-    "camMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_1_2_/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/add7e99141113e106c4fc9490afa2f48bdff7c50.mp3"
   },
   {
     "name": "5P ver (5)",
     "group": "Kpop",
     "modelMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_5_/main.vmd",
-    "camMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_1_2_/camera.vmd"
+    "camMotionFile": "kpop/itzy_itzy_wannabe_full_5p_ver/5p_ver_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/add7e99141113e106c4fc9490afa2f48bdff7c50.mp3"
   },
   {
     "name": "Wannabe  Dance (guy´s part)",
@@ -421,58 +485,68 @@
   {
     "name": "[MMD] ITZY - Blah Blah Blah",
     "group": "Kpop",
-    "modelMotionFile": "kpop/itzy_mmd_itzy_blah_blah_blah/_mmd_itzy_blah_blah_bl/main.vmd"
+    "modelMotionFile": "kpop/itzy_mmd_itzy_blah_blah_blah/_mmd_itzy_blah_blah_bl/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/75e6b8b83d156bcc1a9dd996f1cadefe6d447586.mp3"
   },
   {
     "name": "IU - BBIBBI",
     "group": "Kpop",
     "modelMotionFile": "kpop/iu_iu_bbibbi/iu_bbibbi/main.vmd",
-    "camMotionFile": "kpop/iu_iu_bbibbi/iu_bbibbi/camera.vmd"
+    "camMotionFile": "kpop/iu_iu_bbibbi/iu_bbibbi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/b60f0a93e1429c87869e6cce9f98db33b9c2a748.mp3"
   },
   {
     "name": "IU - Blueming iU",
     "group": "Kpop",
-    "modelMotionFile": "kpop/iu_iu_blueming_iu/iu_blueming_iu/main.vmd"
+    "modelMotionFile": "kpop/iu_iu_blueming_iu/iu_blueming_iu/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/ee0f8b8f86249727ababbd49babe9954df1543c2.mp3"
   },
   {
     "name": "IVE - AFTER LIKE",
     "group": "Kpop",
     "modelMotionFile": "kpop/ive_ive_after_like/ive_after_like/main.vmd",
-    "camMotionFile": "kpop/ive_ive_after_like/ive_after_like/camera.vmd"
+    "camMotionFile": "kpop/ive_ive_after_like/ive_after_like/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/a4af917856ad34a0ef4d203e6c807e8207c39d19.mp3"
   },
   {
     "name": "IVE - LOVE DIVE",
     "group": "Kpop",
     "modelMotionFile": "kpop/ive_ive_love_dive/ive_love_dive/main.vmd",
-    "camMotionFile": "kpop/ive_ive_love_dive/ive_love_dive/camera.vmd"
+    "camMotionFile": "kpop/ive_ive_love_dive/ive_love_dive/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/8c6cd40c50e6c9e13f62a48c8e715316e4067a32.mp3"
   },
   {
     "name": "Solo ver",
     "group": "Kpop",
     "modelMotionFile": "kpop/ive_ive_love_dive_solo_ver/solo_ver/main.vmd",
-    "camMotionFile": "kpop/ive_ive_love_dive_solo_ver/solo_ver/camera.vmd"
+    "camMotionFile": "kpop/ive_ive_love_dive_solo_ver/solo_ver/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/1240900a4aeb05e3367eb6f45b1c2c11929557fd.mp3"
   },
   {
     "name": "[IVE] 'LOVE DIVE'",
     "group": "Kpop",
-    "modelMotionFile": "kpop/ive_ive_love_dive/_ive_love_dive_/main.vmd"
+    "modelMotionFile": "kpop/ive_ive_love_dive/_ive_love_dive_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/8c6cd40c50e6c9e13f62a48c8e715316e4067a32.mp3"
   },
   {
     "name": "IZ-ONE - FIESTA",
     "group": "Kpop",
     "modelMotionFile": "kpop/iz_one_iz_one_fiesta/iz_one_fiesta/main.vmd",
-    "camMotionFile": "kpop/iz_one_iz_one_fiesta/iz_one_fiesta/camera.vmd"
+    "camMotionFile": "kpop/iz_one_iz_one_fiesta/iz_one_fiesta/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/cf9626bfd8e24d545198081e5e8292e6d5c1e045.mp3"
   },
   {
     "name": "IZ-ONE - FIESTA music bank",
     "group": "Kpop",
     "modelMotionFile": "kpop/iz_one_iz_one_fiesta_music_bank/iz_one_fiesta_music_ba/main.vmd",
-    "camMotionFile": "kpop/iz_one_iz_one_fiesta_music_bank/iz_one_fiesta_music_ba/camera.vmd"
+    "camMotionFile": "kpop/iz_one_iz_one_fiesta_music_bank/iz_one_fiesta_music_ba/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/cf9626bfd8e24d545198081e5e8292e6d5c1e045.mp3"
   },
   {
     "name": "KAI 카이 - Rover Challenge",
     "group": "Kpop",
-    "modelMotionFile": "kpop/kai_kai_rover_challenge/kai_rover_challenge/main.vmd"
+    "modelMotionFile": "kpop/kai_kai_rover_challenge/kai_rover_challenge/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/465fc3cab685d1f92625a0064fc9cdb75e345761.mp3"
   },
   {
     "name": "KARA - CUPID",
@@ -484,43 +558,50 @@
     "name": "KARA - Lupin",
     "group": "Kpop",
     "modelMotionFile": "kpop/kara_kara_lupin/kara_lupin/main.vmd",
-    "camMotionFile": "kpop/kara_kara_lupin/kara_lupin/camera.vmd"
+    "camMotionFile": "kpop/kara_kara_lupin/kara_lupin/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/7b06a630b9e8145a3607ebea7912dd48aa4d7339.mp3"
   },
   {
     "name": "긾_긘깈깛 (2)",
     "group": "Kpop",
-    "modelMotionFile": "kpop/kda_kda_pop_stars/_/main.vmd"
+    "modelMotionFile": "kpop/kda_kda_pop_stars/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/0bf170137a34960a2d23c94e2d2c3c241f237e4a.mp3"
   },
   {
     "name": "Motion1 (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/kda_kda_the_baddest_motion1/motion1_1_2_/main.vmd",
     "partnerMotionFile": "kpop/kda_kda_the_baddest_motion1/motion1_1_2_/partner.vmd",
-    "camMotionFile": "kpop/kda_kda_the_baddest_motion1/motion1_1_2_/camera.vmd"
+    "camMotionFile": "kpop/kda_kda_the_baddest_motion1/motion1_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/859bd86725fe870644612ec821d8bdffb60ad39a.mp3"
   },
   {
     "name": "Kep1er - Up!",
     "group": "Kpop",
     "modelMotionFile": "kpop/kep1er_kep1er_up/kep1er_up_/main.vmd",
-    "camMotionFile": "kpop/kep1er_kep1er_up/kep1er_up_/camera.vmd"
+    "camMotionFile": "kpop/kep1er_kep1er_up/kep1er_up_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/7dc77d6e5cc2269eca9d66fce2398ac005519803.mp3"
   },
   {
     "name": "Trio (Motherbones _ Display) (left + right)",
     "group": "Kpop",
     "modelMotionFile": "kpop/kep1er_kep1er_up_trio_motherbones_displa/trio_motherbones_displ/main.vmd",
-    "partnerMotionFile": "kpop/kep1er_kep1er_up_trio_motherbones_displa/trio_motherbones_displ/partner.vmd"
+    "partnerMotionFile": "kpop/kep1er_kep1er_up_trio_motherbones_displa/trio_motherbones_displ/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/7dc77d6e5cc2269eca9d66fce2398ac005519803.mp3"
   },
   {
     "name": "Kep1er - WA DA DA (FULL)",
     "group": "Kpop",
     "modelMotionFile": "kpop/kep1er_kep1er_wa_da_da_full/kep1er_wa_da_da_full_/main.vmd",
-    "camMotionFile": "kpop/kep1er_kep1er_wa_da_da_full/kep1er_wa_da_da_full_/camera.vmd"
+    "camMotionFile": "kpop/kep1er_kep1er_wa_da_da_full/kep1er_wa_da_da_full_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/5305a925157a6bc197130bd36b2b7e564a6dd3e5.mp3"
   },
   {
     "name": "LE SSERAFIM - ANTIFRAGILE",
     "group": "Kpop",
     "modelMotionFile": "kpop/le_sserafim_le_sserafim_antifragile/le_sserafim_antifragil/main.vmd",
-    "camMotionFile": "kpop/le_sserafim_le_sserafim_antifragile/le_sserafim_antifragil/camera.vmd"
+    "camMotionFile": "kpop/le_sserafim_le_sserafim_antifragile/le_sserafim_antifragil/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/613b30f7dcd37b4525d5bae24aeff0526936df1a.mp3"
   },
   {
     "name": "LEO - Losing Game",
@@ -533,13 +614,15 @@
     "group": "Kpop",
     "modelMotionFile": "kpop/lisa_lisa_lilis_film_3_quin_6lack/lisa_lilis_film_3_quin/main.vmd",
     "partnerMotionFile": "kpop/lisa_lisa_lilis_film_3_quin_6lack/lisa_lilis_film_3_quin/partner.vmd",
-    "camMotionFile": "kpop/lisa_lisa_lilis_film_3_quin_6lack/lisa_lilis_film_3_quin/camera.vmd"
+    "camMotionFile": "kpop/lisa_lisa_lilis_film_3_quin_6lack/lisa_lilis_film_3_quin/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/d7bfd5dd808a93bbd424ecb354c557525884341e.mp3"
   },
   {
     "name": "LISA - SENORITA",
     "group": "Kpop",
     "modelMotionFile": "kpop/lisa_lisa_senorita/lisa_senorita/main.vmd",
-    "camMotionFile": "kpop/lisa_lisa_senorita/lisa_senorita/camera.vmd"
+    "camMotionFile": "kpop/lisa_lisa_senorita/lisa_senorita/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/e80faadea729bf0d9bda0a2881da903a9e16ddf7.mp3"
   },
   {
     "name": "긾_긘깈깛 (3)",
@@ -550,7 +633,8 @@
     "name": "MOMOLAND - Baam Extended motion",
     "group": "Kpop",
     "modelMotionFile": "kpop/momoland_momoland_baam_extended_motion/momoland_baam_extended/main.vmd",
-    "camMotionFile": "kpop/momoland_momoland_baam_extended_motion/momoland_baam_extended/camera.vmd"
+    "camMotionFile": "kpop/momoland_momoland_baam_extended_motion/momoland_baam_extended/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/977a23f67bf9288fe7ee88b6e1c67ddef92de02a.mp3"
   },
   {
     "name": "긾_긘깈깛 (4)",
@@ -562,112 +646,130 @@
     "name": "NAYEON - pop",
     "group": "Kpop",
     "modelMotionFile": "kpop/nayeon_nayeon_pop/nayeon_pop/main.vmd",
-    "camMotionFile": "kpop/nayeon_nayeon_pop/nayeon_pop/camera.vmd"
+    "camMotionFile": "kpop/nayeon_nayeon_pop/nayeon_pop/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/1e4b088229403a87f7a0b36be10d1cdb85729aaa.mp3"
   },
   {
     "name": "NAYEON - POP! (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/nayeon_nayeon_pop/nayeon_pop_1_2_/main.vmd",
     "partnerMotionFile": "kpop/nayeon_nayeon_pop/nayeon_pop_1_2_/partner.vmd",
-    "camMotionFile": "kpop/nayeon_nayeon_pop/nayeon_pop_1_2_/camera.vmd"
+    "camMotionFile": "kpop/nayeon_nayeon_pop/nayeon_pop_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/1e4b088229403a87f7a0b36be10d1cdb85729aaa.mp3"
   },
   {
     "name": "NewJeans - Attention",
     "group": "Kpop",
     "modelMotionFile": "kpop/newjeans_newjeans_attention/newjeans_attention/main.vmd",
-    "camMotionFile": "kpop/newjeans_newjeans_attention/newjeans_attention/camera.vmd"
+    "camMotionFile": "kpop/newjeans_newjeans_attention/newjeans_attention/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/733c4fe04ff44d50bb3cad382b9212c567651221.mp3"
   },
   {
     "name": "NewJeans - Hype Boy_NEV01",
     "group": "Kpop",
     "modelMotionFile": "kpop/newjeans_newjeans_hype_boy_nev01/newjeans_hype_boy_nev0/main.vmd",
-    "camMotionFile": "kpop/newjeans_newjeans_hype_boy_nev01/newjeans_hype_boy_nev0/camera.vmd"
+    "camMotionFile": "kpop/newjeans_newjeans_hype_boy_nev01/newjeans_hype_boy_nev0/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/126af55c2bc6263982a759f492f13f449f9cc827.mp3"
   },
   {
     "name": "NMIXX - O.O (left + right)",
     "group": "Kpop",
     "modelMotionFile": "kpop/nmixx_nmixx_o_o/nmixx_o_o_left_right_/main.vmd",
     "partnerMotionFile": "kpop/nmixx_nmixx_o_o/nmixx_o_o_left_right_/partner.vmd",
-    "camMotionFile": "kpop/nmixx_nmixx_o_o/nmixx_o_o_left_right_/camera.vmd"
+    "camMotionFile": "kpop/nmixx_nmixx_o_o/nmixx_o_o_left_right_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/5aee59462b351b3a51cb939a685966bf2c804de7.mp3"
   },
   {
     "name": "OH MY GIRL - Dolphin",
     "group": "Kpop",
     "modelMotionFile": "kpop/oh_my_girl_oh_my_girl_dolphin/oh_my_girl_dolphin/main.vmd",
-    "camMotionFile": "kpop/oh_my_girl_oh_my_girl_dolphin/oh_my_girl_dolphin/camera.vmd"
+    "camMotionFile": "kpop/oh_my_girl_oh_my_girl_dolphin/oh_my_girl_dolphin/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/a0180f7d879a47350cc275a06d6b75e9b75f4274.mp3"
   },
   {
     "name": "OH MY GIRL - dolphin1",
     "group": "Kpop",
     "modelMotionFile": "kpop/oh_my_girl_oh_my_girl_dolphin1/oh_my_girl_dolphin1/main.vmd",
-    "camMotionFile": "kpop/oh_my_girl_oh_my_girl_dolphin1/oh_my_girl_dolphin1/camera.vmd"
+    "camMotionFile": "kpop/oh_my_girl_oh_my_girl_dolphin1/oh_my_girl_dolphin1/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/369fda2f9620b760695317f499cbb090074a9268.mp3"
   },
   {
     "name": "VMDSpectrum Motion",
     "group": "Kpop",
-    "modelMotionFile": "kpop/oh_my_girl_oh_my_girl_nonstop_type2_vmds/vmdspectrum_motion/main.vmd"
+    "modelMotionFile": "kpop/oh_my_girl_oh_my_girl_nonstop_type2_vmds/vmdspectrum_motion/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/1da3c771c989be36ff70f083479537282f35318f.mp3"
   },
   {
     "name": "Nekkoya (Pick me)",
     "group": "Kpop",
     "modelMotionFile": "kpop/prodice48_nekkoya_pick_me/nekkoya_pick_me_/main.vmd",
-    "camMotionFile": "kpop/prodice48_nekkoya_pick_me/nekkoya_pick_me_/camera.vmd"
+    "camMotionFile": "kpop/prodice48_nekkoya_pick_me/nekkoya_pick_me_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/605f5c897a1bf82051155db2447e64ac129ba815.mp3"
   },
   {
     "name": "Rumor",
     "group": "Kpop",
     "modelMotionFile": "kpop/prodice48_rumor/rumor/main.vmd",
     "camMotionFile": "kpop/prodice48_rumor/rumor/camera.vmd",
-    "expressionMotionFile": "kpop/prodice48_rumor/rumor/expression.vmd"
+    "expressionMotionFile": "kpop/prodice48_rumor/rumor/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/5798abbd5bd073f444fed0612d1df872ffc71823.mp3"
   },
   {
     "name": "Rainbow Blaxx - cha cha",
     "group": "Kpop",
     "modelMotionFile": "kpop/rainbow_blaxx_rainbow_blaxx_cha_cha/rainbow_blaxx_cha_cha/main.vmd",
-    "camMotionFile": "kpop/rainbow_blaxx_rainbow_blaxx_cha_cha/rainbow_blaxx_cha_cha/camera.vmd"
+    "camMotionFile": "kpop/rainbow_blaxx_rainbow_blaxx_cha_cha/rainbow_blaxx_cha_cha/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/2c816f808b113c6e6ace8cccd2f5a6e6060efe35.mp3"
   },
   {
     "name": "Red Velvet - Feel My Rhythm [Solo ver.]",
     "group": "Kpop",
     "modelMotionFile": "kpop/red_velvet_red_velvet_feel_my_rhythm_sol/red_velvet_feel_my_rhy/main.vmd",
-    "camMotionFile": "kpop/red_velvet_red_velvet_feel_my_rhythm_sol/red_velvet_feel_my_rhy/camera.vmd"
+    "camMotionFile": "kpop/red_velvet_red_velvet_feel_my_rhythm_sol/red_velvet_feel_my_rhy/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/99a169d6e2ac6df2ee4dd6fcc4ec92b3ea6bcd29.mp3"
   },
   {
     "name": "2P (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/red_velvet_red_velvet_naughty_2p/2p_1_2_/main.vmd",
     "partnerMotionFile": "kpop/red_velvet_red_velvet_naughty_2p/2p_1_2_/partner.vmd",
-    "camMotionFile": "kpop/red_velvet_red_velvet_naughty_2p/2p_1_2_/camera.vmd"
+    "camMotionFile": "kpop/red_velvet_red_velvet_naughty_2p/2p_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/028f62eefaa4599a710506088a753c0452f40340.mp3"
   },
   {
     "name": "Solo",
     "group": "Kpop",
     "modelMotionFile": "kpop/red_velvet_red_velvet_naughty_solo/solo/main.vmd",
-    "camMotionFile": "kpop/red_velvet_red_velvet_naughty_solo/solo/camera.vmd"
+    "camMotionFile": "kpop/red_velvet_red_velvet_naughty_solo/solo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/028f62eefaa4599a710506088a753c0452f40340.mp3"
   },
   {
     "name": "Red Velvet - Peek-A-Boo",
     "group": "Kpop",
     "modelMotionFile": "kpop/red_velvet_red_velvet_peek_a_boo/red_velvet_peek_a_boo/main.vmd",
-    "camMotionFile": "kpop/red_velvet_red_velvet_peek_a_boo/red_velvet_peek_a_boo/camera.vmd"
+    "camMotionFile": "kpop/red_velvet_red_velvet_peek_a_boo/red_velvet_peek_a_boo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/2555186e1d8ba17a5e13b4dbc9450d17258b9e26.mp3"
   },
   {
     "name": "Red Velvet - Psycho",
     "group": "Kpop",
     "modelMotionFile": "kpop/red_velvet_red_velvet_psycho/red_velvet_psycho/main.vmd",
     "camMotionFile": "kpop/red_velvet_red_velvet_psycho/red_velvet_psycho/camera.vmd",
-    "expressionMotionFile": "kpop/red_velvet_red_velvet_psycho/red_velvet_psycho/expression.vmd"
+    "expressionMotionFile": "kpop/red_velvet_red_velvet_psycho/red_velvet_psycho/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/11e9788cb4f574f128e67f5f829257ffd667544f.mp3"
   },
   {
     "name": "Red Velvet - Red_Flavor_EDIT",
     "group": "Kpop",
     "modelMotionFile": "kpop/red_velvet_red_velvet_red_flavor_edit/red_velvet_red_flavor_/main.vmd",
-    "camMotionFile": "kpop/red_velvet_red_velvet_red_flavor_edit/red_velvet_red_flavor_/camera.vmd"
+    "camMotionFile": "kpop/red_velvet_red_velvet_red_flavor_edit/red_velvet_red_flavor_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/7c09bf0d71b0cdb74cb02646dc306e16d8481461.mp3"
   },
   {
     "name": "긾_긘깈깛 (5)",
     "group": "Kpop",
-    "modelMotionFile": "kpop/red_velvet_red_velvet_medley/_/main.vmd"
+    "modelMotionFile": "kpop/red_velvet_red_velvet_medley/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/6b49dfd58297f394acbef74852e6f1e3b4ab45e3.mp3"
   },
   {
     "name": "No 1",
@@ -680,14 +782,16 @@
     "group": "Kpop",
     "modelMotionFile": "kpop/she_z_she_z_my_way/she_z_my_way_1_2_/main.vmd",
     "partnerMotionFile": "kpop/she_z_she_z_my_way/she_z_my_way_1_2_/partner.vmd",
-    "camMotionFile": "kpop/she_z_she_z_my_way/she_z_my_way_1_2_/camera.vmd"
+    "camMotionFile": "kpop/she_z_she_z_my_way/she_z_my_way_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/e1470c3c726782987eb4373a3d3b3e8da16e4ef8.mp3"
   },
   {
     "name": "She_z - 내맘대로 (My Way) (3+4)",
     "group": "Kpop",
     "modelMotionFile": "kpop/she_z_she_z_my_way/she_z_my_way_3_4_/main.vmd",
     "partnerMotionFile": "kpop/she_z_she_z_my_way/she_z_my_way_3_4_/partner.vmd",
-    "camMotionFile": "kpop/she_z_she_z_my_way/she_z_my_way_1_2_/camera.vmd"
+    "camMotionFile": "kpop/she_z_she_z_my_way/she_z_my_way_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/e1470c3c726782987eb4373a3d3b3e8da16e4ef8.mp3"
   },
   {
     "name": "ローアングルver",
@@ -698,103 +802,120 @@
     "name": "Solar - honey",
     "group": "Kpop",
     "modelMotionFile": "kpop/solar_solar_honey/solar_honey/main.vmd",
-    "camMotionFile": "kpop/solar_solar_honey/solar_honey/camera.vmd"
+    "camMotionFile": "kpop/solar_solar_honey/solar_honey/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/f2f7c5e0437ad0a0313c4be176555a9571caf656.mp3"
   },
   {
     "name": "SOMI - BEAM BEAM",
     "group": "Kpop",
     "modelMotionFile": "kpop/somi_somi_beam_beam/somi_beam_beam/main.vmd",
     "camMotionFile": "kpop/somi_somi_beam_beam/somi_beam_beam/camera.vmd",
-    "expressionMotionFile": "kpop/somi_somi_beam_beam/somi_beam_beam/expression.vmd"
+    "expressionMotionFile": "kpop/somi_somi_beam_beam/somi_beam_beam/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/d0cbab24c5fd48cf4d1cf685e03f3069c034e77b.mp3"
   },
   {
     "name": "SOMI - BIRTHDAY",
     "group": "Kpop",
     "modelMotionFile": "kpop/somi_somi_birthday/somi_birthday/main.vmd",
-    "camMotionFile": "kpop/somi_somi_birthday/somi_birthday/camera.vmd"
+    "camMotionFile": "kpop/somi_somi_birthday/somi_birthday/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/ec353bd2984e1b4c7818c2e0f591ced9c52353ba.mp3"
   },
   {
     "name": "SOMI - What You Waiting For",
     "group": "Kpop",
     "modelMotionFile": "kpop/somi_somi_what_you_waiting_for/somi_what_you_waiting_/main.vmd",
-    "camMotionFile": "kpop/somi_somi_what_you_waiting_for/somi_what_you_waiting_/camera.vmd"
+    "camMotionFile": "kpop/somi_somi_what_you_waiting_for/somi_what_you_waiting_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/18a1ca7af9fa51432ea5f25ffbde0c2076049c74.mp3"
   },
   {
     "name": "STAYC - RAN2U (FULL)",
     "group": "Kpop",
     "modelMotionFile": "kpop/stayc_stayc_ran2u_full/stayc_ran2u_full_/main.vmd",
-    "camMotionFile": "kpop/stayc_stayc_ran2u_full/stayc_ran2u_full_/camera.vmd"
+    "camMotionFile": "kpop/stayc_stayc_ran2u_full/stayc_ran2u_full_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/cf15621c518f7d043daa1601c868ddbe232a07d9.mp3"
   },
   {
     "name": "Stellar - Marionette [Motion Full + 4 person ver.]",
     "group": "Kpop",
-    "modelMotionFile": "kpop/stellar_stellar_marionette_motion_full_4/stellar_marionette_mot/main.vmd"
+    "modelMotionFile": "kpop/stellar_stellar_marionette_motion_full_4/stellar_marionette_mot/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/64721153859761c3cd428ed578046b6c5e773e54.mp3"
   },
   {
     "name": "4 person ver",
     "group": "Kpop",
-    "modelMotionFile": "kpop/stellar_stellar_marionette_motion_full_4/4_person_ver/main.vmd"
+    "modelMotionFile": "kpop/stellar_stellar_marionette_motion_full_4/4_person_ver/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/64721153859761c3cd428ed578046b6c5e773e54.mp3"
   },
   {
     "name": "Stellar - Marionette [Motion ver.01]",
     "group": "Kpop",
-    "modelMotionFile": "kpop/stellar_stellar_marionette_motion_ver_01/stellar_marionette_mot/main.vmd"
+    "modelMotionFile": "kpop/stellar_stellar_marionette_motion_ver_01/stellar_marionette_mot/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/64721153859761c3cd428ed578046b6c5e773e54.mp3"
   },
   {
     "name": "SUNMI - LALALAY",
     "group": "Kpop",
     "modelMotionFile": "kpop/sunmi_sunmi_lalalay/sunmi_lalalay/main.vmd",
     "camMotionFile": "kpop/sunmi_sunmi_lalalay/sunmi_lalalay/camera.vmd",
-    "expressionMotionFile": "kpop/sunmi_sunmi_lalalay/sunmi_lalalay/expression.vmd"
+    "expressionMotionFile": "kpop/sunmi_sunmi_lalalay/sunmi_lalalay/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/06a1d7d26e54fd0770bd736d4a6f4eaf89ef608b.mp3"
   },
   {
     "name": "SUNMI - 열이 올라요",
     "group": "Kpop",
     "modelMotionFile": "kpop/sunmi_sunmi/sunmi_/main.vmd",
-    "camMotionFile": "kpop/sunmi_sunmi/sunmi_/camera.vmd"
+    "camMotionFile": "kpop/sunmi_sunmi/sunmi_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/a65c645b6c920e6e9f20bc55d7c8de98a294edd2.mp3"
   },
   {
     "name": "T-ARA - SexyLoveJap (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_1_2_/main.vmd",
     "partnerMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_1_2_/partner.vmd",
-    "camMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_1_2_/camera.vmd"
+    "camMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/14787e71a88a20da3309e1bfddb0a61236d40cc0.mp3"
   },
   {
     "name": "T-ARA - SexyLoveJap (3+4)",
     "group": "Kpop",
     "modelMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_3_4_/main.vmd",
     "partnerMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_3_4_/partner.vmd",
-    "camMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_1_2_/camera.vmd"
+    "camMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/14787e71a88a20da3309e1bfddb0a61236d40cc0.mp3"
   },
   {
     "name": "T-ARA - SexyLoveJap (5)",
     "group": "Kpop",
     "modelMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_5_/main.vmd",
-    "camMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_1_2_/camera.vmd"
+    "camMotionFile": "kpop/t_ara_t_ara_sexylovejap/t_ara_sexylovejap_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/14787e71a88a20da3309e1bfddb0a61236d40cc0.mp3"
   },
   {
     "name": "INVU",
     "group": "Kpop",
     "modelMotionFile": "kpop/taeyeon_invu/invu/main.vmd",
-    "camMotionFile": "kpop/taeyeon_invu/invu/camera.vmd"
+    "camMotionFile": "kpop/taeyeon_invu/invu/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/9ed8ee5611c4ef2d1e00ac8ae732ca4404d80ebe.mp3"
   },
   {
     "name": "tiny_g - minimanimo",
     "group": "Kpop",
     "modelMotionFile": "kpop/tiny_g_tiny_g_minimanimo/tiny_g_minimanimo/main.vmd",
-    "camMotionFile": "kpop/tiny_g_tiny_g_minimanimo/tiny_g_minimanimo/camera.vmd"
+    "camMotionFile": "kpop/tiny_g_tiny_g_minimanimo/tiny_g_minimanimo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/36f0dc4700773b16b1ba3db834bb3eb0dc8aa410.mp3"
   },
   {
     "name": "TWICE - CRY FOR ME (FULL)",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_cry_for_me_full/twice_cry_for_me_full_/main.vmd",
-    "camMotionFile": "kpop/twice_twice_cry_for_me_full/twice_cry_for_me_full_/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_cry_for_me_full/twice_cry_for_me_full_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/77cfdf473ffbe36a75f9f0b2461bd98d84484225.mp3"
   },
   {
     "name": "긾_긘깈깛 (6)",
     "group": "Kpop",
-    "modelMotionFile": "kpop/twice_twice_dance_the_night_away/_/main.vmd"
+    "modelMotionFile": "kpop/twice_twice_dance_the_night_away/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/72953acda12c096b8358396a53d315bbb155a45b.mp3"
   },
   {
     "name": "Pattern1 (2)",
@@ -806,39 +927,45 @@
     "name": "TWICE - Heart Shaker",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_heart_shaker/twice_heart_shaker/main.vmd",
-    "expressionMotionFile": "kpop/twice_twice_heart_shaker/twice_heart_shaker/expression.vmd"
+    "expressionMotionFile": "kpop/twice_twice_heart_shaker/twice_heart_shaker/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/cb818be86d072b52b4c9fe53b4197227e39ac7ad.mp3"
   },
   {
     "name": "TWICE - Kura Kura",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_kura_kura/twice_kura_kura/main.vmd",
     "camMotionFile": "kpop/twice_twice_kura_kura/twice_kura_kura/camera.vmd",
-    "expressionMotionFile": "kpop/twice_twice_kura_kura/twice_kura_kura/expression.vmd"
+    "expressionMotionFile": "kpop/twice_twice_kura_kura/twice_kura_kura/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/25167282bc2428df5f9b22ae0a8dfe2aa8892d91.mp3"
   },
   {
     "name": "TWICE - Like OOH-AHH",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_like_ooh_ahh/twice_like_ooh_ahh/main.vmd",
-    "camMotionFile": "kpop/twice_twice_like_ooh_ahh/twice_like_ooh_ahh/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_like_ooh_ahh/twice_like_ooh_ahh/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/36f0521a3bb1e36eb5b047db40a479c74eec5154.mp3"
   },
   {
     "name": "love foolish",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_love_foolish_love_foolish/love_foolish/main.vmd",
-    "camMotionFile": "kpop/twice_twice_love_foolish_love_foolish/love_foolish/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_love_foolish_love_foolish/love_foolish/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/2e58994a4012ae9a5cee8f2f24af229d8cb9bdc2.mp3"
   },
   {
     "name": "TWICE - MORE _ MORE (Full ver)",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_more_more_full_ver/twice_more_more_full_v/main.vmd",
-    "camMotionFile": "kpop/twice_twice_more_more_full_ver/twice_more_more_full_v/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_more_more_full_ver/twice_more_more_full_v/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/6fe15366c5eedd0081faa53c0905a1cc3b55aa5e.mp3"
   },
   {
     "name": "211128 [MMD] TWICE - SCIENTIST (FULL) (1+2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_scientist_full_211128_mmd_tw/211128_mmd_twice_scien/main.vmd",
     "partnerMotionFile": "kpop/twice_twice_scientist_full_211128_mmd_tw/211128_mmd_twice_scien/partner.vmd",
-    "camMotionFile": "kpop/twice_twice_scientist_full_211128_mmd_tw/211128_mmd_twice_scien/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_scientist_full_211128_mmd_tw/211128_mmd_twice_scien/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/3bf831070f985cc56feb38cdc7c8d02f69ec374e.mp3"
   },
   {
     "name": "Pattern2 (3)",
@@ -850,6 +977,7 @@
     "name": "TWICE- Talk That Talk",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_talk_that_talk/twice_talk_that_talk/main.vmd",
-    "camMotionFile": "kpop/twice_twice_talk_that_talk/twice_talk_that_talk/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_talk_that_talk/twice_talk_that_talk/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions16/audio/a370bd99da2d804e792cbb3d180975b61db32eb1.mp3"
   }
 ]
