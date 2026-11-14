@@ -3,7 +3,8 @@
     "name": "9MUSES - hurt locker",
     "group": "Kpop",
     "modelMotionFile": "kpop/9muses_9muses_hurt_locker/9muses_hurt_locker/main.vmd",
-    "camMotionFile": "kpop/9muses_9muses_hurt_locker/9muses_hurt_locker/camera.vmd"
+    "camMotionFile": "kpop/9muses_9muses_hurt_locker/9muses_hurt_locker/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/ad5decece7a27294.mp3"
   },
   {
     "name": "Aespa - Black Mamba",
@@ -255,12 +256,14 @@
     "name": "EXO - Obsession",
     "group": "Kpop",
     "modelMotionFile": "kpop/exo_exo_obsession/exo_obsession/main.vmd",
-    "camMotionFile": "kpop/exo_exo_obsession/exo_obsession/camera.vmd"
+    "camMotionFile": "kpop/exo_exo_obsession/exo_obsession/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/76ba2c02bbbb2ab2.mp3"
   },
   {
     "name": "Dance",
     "group": "Kpop",
-    "modelMotionFile": "kpop/exo_exo_obsession_3_motion_dance/dance/main.vmd"
+    "modelMotionFile": "kpop/exo_exo_obsession_3_motion_dance/dance/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/76ba2c02bbbb2ab2.mp3"
   },
   {
     "name": "FIFTY FIFTY- Cupid dance challenge",
@@ -301,7 +304,8 @@
     "name": "GFRIEND - fever",
     "group": "Kpop",
     "modelMotionFile": "kpop/gfriend_gfriend_fever/gfriend_fever/main.vmd",
-    "camMotionFile": "kpop/gfriend_gfriend_fever/gfriend_fever/camera.vmd"
+    "camMotionFile": "kpop/gfriend_gfriend_fever/gfriend_fever/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/1c75b66c0db5f127.mp3"
   },
   {
     "name": "GFRIEND - Rough",
@@ -552,7 +556,8 @@
     "name": "KARA - CUPID",
     "group": "Kpop",
     "modelMotionFile": "kpop/kara_kara_cupid/kara_cupid/main.vmd",
-    "camMotionFile": "kpop/kara_kara_cupid/kara_cupid/camera.vmd"
+    "camMotionFile": "kpop/kara_kara_cupid/kara_cupid/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/7cabb9723c6ff312.mp3"
   },
   {
     "name": "KARA - Lupin",
@@ -607,7 +612,8 @@
     "name": "LEO - Losing Game",
     "group": "Kpop",
     "modelMotionFile": "kpop/leo_leo_losing_game/leo_losing_game/main.vmd",
-    "camMotionFile": "kpop/leo_leo_losing_game/leo_losing_game/camera.vmd"
+    "camMotionFile": "kpop/leo_leo_losing_game/leo_losing_game/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/6e3f6a93111a9e3b.mp3"
   },
   {
     "name": "LISA  - LILIs FILM #3 (QUIN, 6LACK) (1+2)",
@@ -627,7 +633,8 @@
   {
     "name": "긾_긘깈깛 (3)",
     "group": "Kpop",
-    "modelMotionFile": "kpop/mamamoo_mamamoo_gogobebe/_/main.vmd"
+    "modelMotionFile": "kpop/mamamoo_mamamoo_gogobebe/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/529bae24483bb23d.mp3"
   },
   {
     "name": "MOMOLAND - Baam Extended motion",
@@ -640,7 +647,8 @@
     "name": "긾_긘깈깛 (4)",
     "group": "Kpop",
     "modelMotionFile": "kpop/momoland_momoland_i_m_so_hot/_/main.vmd",
-    "camMotionFile": "kpop/momoland_momoland_i_m_so_hot/_/camera.vmd"
+    "camMotionFile": "kpop/momoland_momoland_i_m_so_hot/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/9bf4af6065075359.mp3"
   },
   {
     "name": "NAYEON - pop",
@@ -775,7 +783,8 @@
     "name": "No 1",
     "group": "Kpop",
     "modelMotionFile": "kpop/ros_ros_on_the_ground_no_1/no_1/main.vmd",
-    "camMotionFile": "kpop/ros_ros_on_the_ground_no_1/no_1/camera.vmd"
+    "camMotionFile": "kpop/ros_ros_on_the_ground_no_1/no_1/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/b9df6d774460400d.mp3"
   },
   {
     "name": "She_z - 내맘대로 (My Way) (1+2)",
@@ -921,7 +930,8 @@
     "name": "Pattern1 (2)",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_fancy_pattern1/pattern1/main.vmd",
-    "camMotionFile": "kpop/twice_twice_fancy_pattern1/pattern1/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_fancy_pattern1/pattern1/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/2e647a0d73eb500a.mp3"
   },
   {
     "name": "TWICE - Heart Shaker",
@@ -971,7 +981,8 @@
     "name": "Pattern2 (3)",
     "group": "Kpop",
     "modelMotionFile": "kpop/twice_twice_yes_or_yes_pattern2/pattern2/main.vmd",
-    "camMotionFile": "kpop/twice_twice_yes_or_yes_pattern2/pattern2/camera.vmd"
+    "camMotionFile": "kpop/twice_twice_yes_or_yes_pattern2/pattern2/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/f3cbb0dc8b16cc67.mp3"
   },
   {
     "name": "TWICE- Talk That Talk",
