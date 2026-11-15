@@ -215,7 +215,17 @@
     "group": "Kpop",
     "modelMotionFile": "kpop/everglow_everglow_dun_dun_2/everglow_dun_dun_2/main.vmd",
     "camMotionFile": "kpop/everglow_everglow_dun_dun_2/everglow_dun_dun_2/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/10ce68a64a8905483327fb678dd77dc5144e5006.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions17/audio/10ce68a64a8905483327fb678dd77dc5144e5006.mp3",
+    "cameraMotions": [
+      {
+        "name": "Camera 1",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s46_mmd_dun_dun/cam_1.vmd"
+      },
+      {
+        "name": "Camera 2",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s46_mmd_dun_dun/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "EVERGLOW - Pirate (FULL)",
